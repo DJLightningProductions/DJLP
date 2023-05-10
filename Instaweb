@@ -1,0 +1,85 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>DJ lightning Productions(DJLP)</title>
+	<style>
+		body {
+			background-color: black;
+			color: green;
+		}
+	</style>
+</head>
+<body>
+	<h1>DJ lightning Productions(DJLP)</h1>
+	<p>DJ Lightning Productions (DJLP) is a DJ business that does music and light gigs for sporting events, Birthday Partys, Weddings, Raves, House partys and manny more massive events. Our price list does very from event but there are pre-selected prices for the types of events listed at the bottom of the wedpage, We also do Custom events of the customers choice, We dont do business out side of The western cape unless the customer Pays for accomadation, the flight there and back and am Additional fee for our time.</p>
+</select>
+	
+			<!-- Add pictures and videos -->
+	<img src="Canva-Design.jpg" alt="sign" />
+
+<h1>MORE deatail</h1>
+	<p>To place an order Contact: +2764 681 9542 (A)> (To book event and discuss Event plans) or +27817668534 (B)> ( if you Have any Questions about the Website or Suggestions) Option A is Jeandre the DJ/ co.owner and option (B) Is the Cameron the IT guy/ other Co. owner  .</p>
+
+	
+
+
+<h1>Picture and video info</h1>
+	<p>Pricture will be changed every so long and permission to take pictures is  in contracts. Note* That we are still updateing the website and still will be adding pictures.</p>
+	
+	<!-- Add pictures and videos -->
+	<img src="image1.jpg" alt="Image 1">
+	<img src="image2.jpg" alt="Image 2">
+	<img src="image3.jpg" alt="Image 3">
+	
+	<video src="DJ.mp4" controls></video>
+	<video src="djtwo.mp4" controls></video>
+
+
+
+<h1>Custom event instructions</h1>
+	<p> For event to happen we need: A place to set up equipment with place to charge the equipment, if you dont have a event location we can organise the event location, but you will have to pay, We need A list of songs to play or at least the music genre.</p>
+
+<h1>Social Media and Contact Information</h1>
+	<p>Insta: @dj_lighning.productions, facebook: Dj JR, whatsapp: +2764 681 9542 or +2781 766 8534.</p>
+
+<h1>Credit</h1>
+	<p>Music used:
+NEONI - Darkside and Rammstein - Sonne.</p>
+<h1>Business Owners</h1>
+	<p>Cameron kemp(IT and Editing) and Jeandre Rademeyer(DJ and business management).</p>
+
+<h1>Terms and conditions</h1>
+	<p>Equipment is very expensive therefore Damage of equipment will be charged and payed for by the offender that broke the equipment (Repace damaged equipment) more detailes in the contract. if you dont read and sign the contract we cant provide servece.</p>
+
+
+<h1>Events and prices</h1>
+<table border =11">
+<tr>
+	<th> Events </th>
+	<th> Prices </th>
+</tr>
+<tr>
+<td> 
+	<td> Birthday party </td>
+	<td> R2000 </td>
+</tr>
+<tr>
+<td> 
+	<td> Small Event </td>
+	<td> R3500 </td>
+</tr>
+</tr>
+<td> 
+	<td> Medium Event </td>
+	<td> R5000 </td>
+</tr>
+</tr>
+<td> 
+	<td> Massive event </td>
+	<td> R7000 </td>
+</tr>
+
+
+</body>
+</html>
